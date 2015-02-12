@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1423781517 source:c:\users\ryan\documents\myprojects\shapes-library\shapes-library\bufferobject.cpp
+	<windows.h>
+	<GL/glew.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<vector>
+	<iostream>
+	<stdexcept>
+	<glm/glm.hpp>
+
+1423781761 source:c:\users\ryan\documents\myprojects\shapes-library\shapes-library\example.cpp
+	<cmath>
+	"Example.h"
+
+1423781517 c:\users\ryan\documents\myprojects\shapes-library\shapes-library\example.h
+	"BufferObject.h"
+
+1423782113 c:\users\ryan\documents\myprojects\shapes-library\shapes-library\bufferobject.h
+	<windows.h>
+	<GL/glew.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<vector>
+	<iostream>
+	<stdexcept>
+	<glm/glm.hpp>
+
